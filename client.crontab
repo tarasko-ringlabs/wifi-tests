@@ -1,0 +1,4 @@
+#*/2 * * * * /root/run-server.sh
+*/2 * * * * /root/run-client.sh
+#* * * * * /root/cron-test.sh
+
